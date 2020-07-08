@@ -1,0 +1,21 @@
+.pageHeader{ 
+    text-align: center; 
+    font-weight: bold; 
+    font-size: 30px;
+}
+
+.paragraph { 
+    text-align: left;
+}
+
+.headerSub { 
+    text-align: center; 
+    font-weight: bold; 
+    font-size: 15px; 
+}
+
+.center { 
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
